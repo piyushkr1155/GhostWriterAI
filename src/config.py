@@ -94,3 +94,4 @@ class AppConfig:
 
 config = AppConfig()
 config.ensure_directories()
+

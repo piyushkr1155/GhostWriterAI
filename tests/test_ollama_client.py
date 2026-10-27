@@ -128,3 +128,4 @@ def test_list_installed_models(client):
         assert len(models) == 1
         assert models[0]["name"] == "qwen2.5:3b"
         assert models[0]["size_gb"] == 2.0
+

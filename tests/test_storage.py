@@ -146,3 +146,4 @@ def test_export_story_format(temp_storage):
     assert "Setting:    Haunted Forest" in export_txt
     assert "The fog crept between the ancient gnarled oaks." in export_txt
     assert "Summoned with GhostWriter 👻" in export_txt
+

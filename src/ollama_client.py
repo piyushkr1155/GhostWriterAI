@@ -227,3 +227,4 @@ class OllamaClient:
             raise OllamaTimeoutError(f"Streaming inference timed out after {self.timeout}s.")
         except requests.exceptions.ConnectionError:
             raise OllamaConnectionError(f"Connection lost to Ollama during streaming at {self.base_url}.")
+

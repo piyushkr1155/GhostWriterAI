@@ -159,3 +159,4 @@ Gareth raised his flashlight into the fog."""
     assert "The gate swung open" in story_text
     assert word_count > 5
     mock_generator.client.generate.assert_called_once()
+

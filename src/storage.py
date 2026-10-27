@@ -232,3 +232,4 @@ class GhostStorage:
                 "total_words_written": words,
                 "by_style": {r["horror_style"]: r["cnt"] for r in by_style}
             }
+

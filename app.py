@@ -728,3 +728,4 @@ with tab_manifesto:
     - **Llama 3.2 Models:** Open-weight models released under the **Llama 3.2 Community License Agreement**.
     - **Gemma 2 Models:** Open-weight models released under the **Gemma Terms of Use**.
     """)
+

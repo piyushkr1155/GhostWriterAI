@@ -1,1 +1,2 @@
 """GhostWriter test suite."""
+

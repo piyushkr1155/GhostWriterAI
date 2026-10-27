@@ -229,3 +229,4 @@ Storytelling Rules:
             temperature=temperature,
             max_tokens=max_tokens
         )
+
